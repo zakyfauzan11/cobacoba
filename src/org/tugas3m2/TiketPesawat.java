@@ -38,6 +38,7 @@ public class TiketPesawat extends Pemesanan implements org.tugas3m2.Tiket {
         System.out.println("Diskon: " + diskon + "%");
         System.out.println("Biaya Tiket Setelah Diskon: " + hitungBiayaTiket());
         System.out.println("Jumlah Diskon: " + hitungDiskon());  // Mengoreksi kata "Jumlaj" menjadi "Jumlah"
+        System.out.println("wkwk");
     }
 }
 
